@@ -1,0 +1,40 @@
+body{
+    background: linear-gradient(45deg, #fc466b, #3f5efb);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+
+}
+form{
+    justify-content: center;
+   
+    font-family: Arial, sans-serif;
+    background:rgba(255, 255, 255, .3) ;
+    border-radius: 20px;
+    padding: 4rem;
+    border-left: 1px solid rgba(255, 255, 255, .3);
+    border-top: 1px solid rgba(255, 255, 255, .3);
+    box-shadow: 20px 20px 40px -6px rgba(0, 0, 0, -2) ;
+    text-align: center;
+    
+
+}
+.toto{
+    text-align: left;
+   
+    
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+    color: blanchedalmond;
+    
+}
+.tata{
+    font-size: 20px;
+
+   
+   
+}
+.formulaire{
+    
+    flex: 1;
+}
